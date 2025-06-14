@@ -1,4 +1,3 @@
-# About Me:
 Hey, I'm Siddarth aka zoro<br>I build things. Mostly quiet, mostly functional.<br>Right now, I'm exploring nothing.<br>Thanks for reading this sh\*t.
 
 
