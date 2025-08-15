@@ -3,6 +3,12 @@
 <br>[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kaniskaraj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@1xunban) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofiyasenthilkumar@gmail.com) 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://latex.codecogs.com/svg.latex?\color{white}\int_{10}^{13}2x\,dx">
+  <source media="(prefers-color-scheme: light)" srcset="https://latex.codecogs.com/svg.latex?\color{black}\int_{10}^{13}2x\,dx">
+  <img alt="integral" src="https://latex.codecogs.com/svg.latex?\color{black}\int_{10}^{13}2x\,dx">
+</picture>
+
 
 
 ![gray0_ctp_on_line](https://github.com/user-attachments/assets/77a493fa-d9e8-4d22-a74e-46420adda22b)<svg width="600" height="75" viewBox="0 0 600 75" version="1.1" xmlns="http://www.w3.org/2000/svg" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 1.5;">
