@@ -30,7 +30,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofiyasenthilkumar@gmail.com) • 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/kaniskaraj) • 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?logo=huggingface&logoColor=yellow)](https://huggingface.co/kaniskaZoro) • 
-[![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black)](https://wandb.ai/guider23)
+[![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black)](https://wandb.ai/auraculture)
 
 
 aka Siddarth
