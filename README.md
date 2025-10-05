@@ -26,6 +26,7 @@
 
 <br>
 
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-18181B?logo=monkeytype&logoColor=yellow)](https://monkeytype.com/profile/iloveshe) • 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kaniskaZoro) • 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@1xunban) • 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofiyasenthilkumar@gmail.com) • 
