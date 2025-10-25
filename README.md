@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://latex.codecogs.com/svg.latex?\color{white}\int_{10}^{13}2x\;dx">
   <source media="(prefers-color-scheme: light)" srcset="https://latex.codecogs.com/svg.latex?\color{black}\int_{10}^{13}2x\;dx">
   <img alt="integral" src="https://latex.codecogs.com/svg.latex?\color{black}\int_{10}^{13}2x\;dx">
-  <p>wanna ? kidinggg...</p>
+  <p>wanna ? kiddinggg...</p>
 </picture>
 
 
