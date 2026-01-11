@@ -32,7 +32,7 @@
 
 
 
-Alias : `Siddarth` • `Zoro` • `kaniskaZoro` • `guider23` • `iLoveShe` • `kaniska` • `Sizoro` • `0x` • `1x` • `1xunban` • `1x.ub_` •  `Slay` • `Shadow`  
+a.k.a : `Siddarth` • `Zoro` • `kaniskaZoro` • `guider23` • `iLoveShe` • `kaniska` • `Sizoro` • `0x` • `1x` • `1xunban` • `1x.ub_` •  `Slay` • `Shadow`  
 • `P I N K`
 
 
@@ -41,4 +41,4 @@ Checkout : https://bcworks.in.net
 
 
 
-Quite is fun
+VEc5dVpXeHBibVZ6Y3l3Z1JHOXVKM1FnYkdWMElHMWxJR1Z1WkNCMWNDQmhiRzl1WlE9PQ==
