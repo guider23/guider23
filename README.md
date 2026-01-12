@@ -32,13 +32,26 @@
 
 
 
-a.k.a : `Siddarth` • `Zoro` • `kaniskaZoro` • `guider23` • `iLoveShe` • `kaniska` • `Sizoro` • `0x` • `1x` • `1xunban` • `1x.ub_` •  `Slay` • `Shadow`  
+before k.a : `Siddarth` • `Zoro` • `kaniskaZoro` • `guider23` • `iLoveShe` • `kaniska` • `Sizoro` • `0x` • `1x` • `1xunban` • `1x.ub_` •  `Slay` • `Shadow`  
 • `P I N K`
+
+
+
+
+
+
+## Roxy – Current Products
+
+| Product   | Progress on Upcoming Updates |
+|-----------|----------|
+| SONU      | ███████████████████████ 90% |
+| Freedom   | ███████████████ 60% |
+| OnePiece  | ████████████████████ 80% 
 
 
 
 Checkout : https://bcworks.in.net
 
-
+  
 
 TG9uZWxpbmVzcywgRG9uJ3QgbGV0IG1lIGVuZCB1cCBhbG9uZQo=
