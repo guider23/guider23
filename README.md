@@ -34,9 +34,10 @@
 
 aka `Siddarth`•`Zoro`•`kaniskaZoro`•`guider23`•`iLoveShe`•`kaniska`•`Sizoro`•`0x`•`1x`•`1xunban`•`1x.ub_`•`Slay`•`Shadow`•`P I N K`  
 
-
-| Upcoming Products |
-| Preem Card - Unified Payment Interface for BC |
+## Upcoming Products
+|              Products                 |
+|---------------------|
+| Preem Card - Unified payment interface for BC |
 
 
 ## Roxy – Current Products
@@ -48,10 +49,9 @@ aka `Siddarth`•`Zoro`•`kaniskaZoro`•`guider23`•`iLoveShe`•`kaniska`•
 | OnePiece  | ████████████████████ 80% 
 
 
+## Message
 
-Checkout : https://bcworks.in.net
-
- |                       Message                                       |
+ |                          +1                             |
 |---------|
  | AES CBC PKCS5 128         |
 | Public : 2hfofZv+48ECDI1mm+gwAqtbnqpYDpC9d2b/cJsg3irs6hhFA0rGxFYiPaFUiY3j |
