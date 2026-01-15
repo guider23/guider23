@@ -51,8 +51,9 @@ aka `Siddarth`•`Zoro`•`kaniskaZoro`•`guider23`•`iLoveShe`•`kaniska`•
 
 Checkout : https://bcworks.in.net
 
- |                       Message                                            |
+ |                       Message                                       |
 |---------|
+ | AES CBC PKCS5 128         |
 | Public : 2hfofZv+48ECDI1mm+gwAqtbnqpYDpC9d2b/cJsg3irs6hhFA0rGxFYiPaFUiY3j |
 |                   Private : pkraentitsykalov                               |
 
