@@ -49,7 +49,6 @@ aka `Siddarth`•`Zoro`•`kaniskaZoro`•`guider23`•`iLoveShe`•`kaniska`•
 | OnePiece  | ████████████████████ 80% 
 
 
-## Message
 
  |                          +1                             |
 |---------|
