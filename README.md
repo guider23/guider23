@@ -49,12 +49,8 @@ aka `Siddarth`•`Zoro`•`kaniskaZoro`•`guider23`•`iLoveShe`•`kaniska`•
 | OnePiece  | ████████████████████ 80% 
 
 
+2hfofZv+48ECDI1mm+gwAqtbnqpYDpC9d2b/cJsg3irs6hhFA0rGxFYiPaFUiY3j | pkraentitsykalov
 
- |                          +1                             |
-|---------|
- | AES CBC PKCS5 128         |
-| Public : 2hfofZv+48ECDI1mm+gwAqtbnqpYDpC9d2b/cJsg3irs6hhFA0rGxFYiPaFUiY3j |
-|                   Private : pkraentitsykalov                               |
 
 Checkout : https://bcworks.in.net
 
