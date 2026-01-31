@@ -46,7 +46,7 @@ aka `k`•`Siddarth`•`Zoro`•`kaniskaZoro`•`guider23`•`iLoveShe`•`kanis
 |-----------|----------|
 | SONU     - https://roxy.bcworks.in.net | ███████████████████████ 90% |
 | Freedom  - https://github.com/guider23/Freedom | ███████████████ 60% |
-| OnePiece -https://bcworks.in.net/onepiece | ████████████████████ 80% 
+| OnePiece - https://bcworks.in.net/onepiece | ████████████████████ 80% 
 
 
 
