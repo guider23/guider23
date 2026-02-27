@@ -37,16 +37,16 @@ aka `k`•`Siddarth`•`Zoro`•`kaniskaZoro`•`guider23`•`iLoveShe`•`kanis
 ## Just Now
 |              Products                 |
 |---------------------|
-| Preem Card -  https://cards.bcworks.in.net - Unified payment interface for BC |
-
+| Open Intelligence - https://oi.bcworks.in.net - A Intelligent LLM inference for your SaaS apps |
 
 ## Roxy – Current Products
 
 | Product   | Progress on Upcoming Updates |
 |-----------|----------|
-| SONU     - https://roxy.bcworks.in.net | ███████████████████████ 90% |
-| Freedom  - https://github.com/guider23/Freedom | ███████████████ 60% |
-| OnePiece - https://bcworks.in.net/onepiece | ████████████████████ 80% 
+| SONU     - https://roxy.bcworks.in.net | ███████████████████████ 100% ( New version with advanced features )|
+| Freedom  - https://github.com/guider23/Freedom |  ███████████████████████ 90%  |
+| OnePiece - https://bcworks.in.net/onepiece |  ███████████████████████ 100% ( New Version Released v7 ) 
+| Preem Card -  https://cards.bcworks.in.net | ████████████████ 70% |
 
 
 
