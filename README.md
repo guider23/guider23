@@ -32,7 +32,6 @@
 
 
 
-aka `k`•`Siddarth`•`Zoro`•`kaniskaZoro`•`guider23`•`iLoveShe`•`kaniska`•`Sizoro`•`0x`•`1x`•`1xunban`•`1x.ub_`•`Slay`•`Shadow`•`P I N K`  
 
 
 ## Just Now
