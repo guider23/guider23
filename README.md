@@ -61,3 +61,7 @@
 
 Checkout : https://bcworks.in.net
 
+<p align="center">
+  <img src="https://bcworks.in.net/team.svg" />
+</p>
+
