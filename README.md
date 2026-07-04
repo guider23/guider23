@@ -1,14 +1,30 @@
-## 🚨🚨🚨 ALL SERVICES AND PRODUCTS ARE DOWN - EXPECTED BACK AT JULY 5
+<div align="center">
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">📰 News Board</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <!-- Optional cipher or text banner -->
+        <br /><br />
+        <img width="1633" height="940" alt="2nd" src="https://github.com/user-attachments/assets/818b7e91-878a-4225-9368-ccf6a54d25a2" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  
+![gray0_ctp_on_line](https://github.com/user-attachments/assets/77a493fa-d9e8-4d22-a74e-46420adda22b)
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://latex.codecogs.com/svg.latex?\color{white}\int_{10}^{13}2x\;dx">
   <source media="(prefers-color-scheme: light)" srcset="https://latex.codecogs.com/svg.latex?\color{black}\int_{10}^{13}2x\;dx">
-  <img alt="integral" src="https://latex.codecogs.com/svg.latex?\color{black}\int_{10}^{13}2x\;dx">
-  <p>wanna ? Kidding... </p>
+
 </picture>
-
-
-![gray0_ctp_on_line](https://github.com/user-attachments/assets/77a493fa-d9e8-4d22-a74e-46420adda22b)
 
 <svg width="600" height="75" viewBox="0 0 600 75" version="1.1" xmlns="http://www.w3.org/2000/svg" style="stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 1.5;">
   <path transform="matrix(1,0,0,1,92.3579,4.11772)" d="M105.809,48.397C105.809,44.506 102.473,43.931 102.473,33.503" style="fill: none; stroke: rgb(110, 108, 126); stroke-width: 1.5px;"/>
@@ -23,6 +39,7 @@
   <path transform="matrix(1.78906,0,0,2.78204,-166.7,-130.078)" d="M93.717,66.428L195.647,66.428" style="fill: none; stroke: rgb(110, 108, 126); stroke-width: 0.64px;"/>
 </svg>
 
+<br />
 
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-18181B?logo=monkeytype&logoColor=yellow)](https://monkeytype.com/profile/iloveshe)
 • [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@guider23)
@@ -32,39 +49,50 @@
 • [![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?logo=huggingface&logoColor=yellow)](https://huggingface.co/kaniskaZoro)
 • [![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black)](https://wandb.ai/auraculture)
 
+</div>
 
-
-
+---
 
 ## Prime - Current Products
-|              Products                 |
-|---------------------|
-| Open Intelligence - https://oi.bcworks.in.net - A Intelligent LLM inference for your SaaS apps |
-| Tudb - https://tudb.bcworks.in.net - A Interatice database communicator |
+
+| Products |
+| :--- |
+| **Open Intelligence** - https://oi.bcworks.in.net - A Intelligent LLM inference for your SaaS apps |
+| **Tudb** - https://tudb.bcworks.in.net - A Interatice database communicator |
+
+<br />
 
 ## Roxy – Current Products
 
-| Product   | Progress on Upcoming Updates |
-|-----------|----------|
-| Freedom  - https://github.com/guider23/Freedom |  ███████████████████████ 90%  |
-| OnePiece - https://bcworks.in.net/onepiece |  ███████████████████████ 100% ( New Version Released v7 ) 
+| Product | Progress on Upcoming Updates |
+| :--- | :--- |
+| **Freedom** - https://github.com/guider23/Freedom | ███████████████████████ 90% |
+| **OnePiece** - https://bcworks.in.net/onepiece | ███████████████████████ 100% ( New Version Released v7 ) |
+
+<br />
 
 ## Hobby – Current Products
 
-| Product   | Progress on Upcoming Updates |
-|-----------|----------|
-| Preem Card -  https://cards.bcworks.in.net | ████████████████ 70% |
+| Product | Progress on Upcoming Updates |
+| :--- | :--- |
+| **Preem Card** - https://cards.bcworks.in.net | ████████████████ 70% |
 
+---
 
+<details>
+<summary> More </summary>
 
+<summary> Future </summary>
+
+```text
 2hfofZv+48ECDI1mm+gwAqtbnqpYDpC9d2b/cJsg3irs6hhFA0rGxFYiPaFUiY3j | pkraentitsykalov
-
-
-
-
-Checkout : https://bcworks.in.net
+```
+<summary> Team </summary>
 
 <p align="center">
+
   <img src="https://bcworks.in.net/team.svg" />
-</p>
+
+</p> 
+
 
