@@ -79,20 +79,21 @@
 
 ---
 
-<details>
-<summary> More </summary>
-
-<summary> Future </summary>
-
-```text
-2hfofZv+48ECDI1mm+gwAqtbnqpYDpC9d2b/cJsg3irs6hhFA0rGxFYiPaFUiY3j | pkraentitsykalov
-```
-<summary> Team </summary>
 
 <p align="center">
 
   <img src="https://guider23.github.io/bcWorks/team.svg" />
 
 </p> 
+
+<details>
+<summary> More </summary>
+
+<summary> Hear me out </summary>
+
+```text
+2hfofZv+48ECDI1mm+gwAqtbnqpYDpC9d2b/cJsg3irs6hhFA0rGxFYiPaFUiY3j | pkraentitsykalov
+```
+
 
 
