@@ -91,7 +91,7 @@
 
 <p align="center">
 
-  <img src="https://bcworks.in.net/team.svg" />
+  <img src="https://guider23.github.io/bcWorks/team.svg" />
 
 </p> 
 
