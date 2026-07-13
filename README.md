@@ -67,7 +67,7 @@
 | Product | Progress on Upcoming Updates |
 | :--- | :--- |
 | **Freedom** - https://github.com/guider23/Freedom | ███████████████████████ 90% |
-| **OnePiece** - https://guider23.github.io/bcWorks/onepiece | ███████████████████████ 100% ( New Version Released v7 ) |
+| **OnePiece** - https://guider23.github.io/bcWorks/Onepiece/ | ███████████████████████ 100% ( New Version Released v7 ) |
 
 <br />
 
