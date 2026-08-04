@@ -63,7 +63,7 @@
 
 | Products |
 | :--- |
-| **Open Intelligence** - https://oi.bcworks.in.net - A Intelligent LLM inference for your SaaS apps |
+| **Open Intelligence** - https://oi.bcworks.in.net - A Intelligent LLM inference for your SaaS apps (Maintenance Break) |
 | **Tudb** - https://tudb.bcworks.in.net - A Interatice database communicator |
 
 <br />
