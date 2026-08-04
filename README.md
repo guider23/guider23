@@ -79,6 +79,20 @@
 
 ---
 
+## AuraCulture – PyPi and Docker Releases
+
+| Product | Progress on Upcoming Updates |
+| :--- | :--- |
+| **Sub Plz** - https://github.com/AuraCulture/SubPlz | ████████████████ 70% |
+| **Comms** - https://github.com/AuraCulture/Comms | ████████████████ 70% |
+| **Host** - https://github.com/AuraCulture/Host | ████████████████ 70% |
+| **Rem** - https://github.com/AuraCulture/Rem | ████████████████ 70% |
+
+
+
+
+---
+
 
 <p align="center">
 
