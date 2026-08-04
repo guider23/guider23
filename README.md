@@ -8,9 +8,15 @@
   <tbody>
     <tr>
       <td align="center">
-        <!-- Optional cipher or text banner -->
         <br /><br />
-        <img width="1633" height="940" alt="2nd" src="https://github.com/user-attachments/assets/818b7e91-878a-4225-9368-ccf6a54d25a2" />
+        <a href="https://cards.bcworks.in.net/claim100" target="_blank">
+          <img
+            width="1633"
+            height="940"
+            alt="2nd"
+            src="https://github.com/user-attachments/assets/818b7e91-878a-4225-9368-ccf6a54d25a2"
+          />
+        </a>
       </td>
     </tr>
   </tbody>
