@@ -85,7 +85,7 @@
 
 ---
 
-## AuraCulture – PyPi and Docker Releases
+## AuraCulture – PyPi Releases
 
 | Product | Progress on Upcoming Updates |
 | :--- | :--- |
@@ -93,6 +93,14 @@
 | **Comms** - https://github.com/AuraCulture/Comms | ████████████████ 70% |
 | **Host** - https://github.com/AuraCulture/Host | ████████████████ 70% |
 | **Rem** - https://github.com/AuraCulture/Rem | ████████████████ 70% |
+
+
+## AuraVinsmoke – npm Releases
+
+| Product | Progress on Upcoming Updates |
+| :--- | :--- |
+| **nata** - https://github.com/AuraVinsmoke/nata | ████████████████ 70% |
+
 
 
 
