@@ -1,5 +1,5 @@
 <div align="center">
-<table width="100%">
+<!-- <table width="100%">
   <thead>
     <tr>
       <th align="left">📰 News Board</th>
@@ -20,11 +20,9 @@
       </td>
     </tr>
   </tbody>
-</table>
-
-  
+</table> 
 ![gray0_ctp_on_line](https://github.com/user-attachments/assets/77a493fa-d9e8-4d22-a74e-46420adda22b)
-<br />
+<br /> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://latex.codecogs.com/svg.latex?\color{white}\int_{10}^{13}2x\;dx">
